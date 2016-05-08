@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68e80811bc2f2bc449fcb5fd803c54a8
+timeCreated: 1461478472
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DefaultPlayButton: {fileID: 21300000, guid: 862fc95041244804199b3813f43a0a9d,
+      type: 3}
+  - HoverPlayButton: {fileID: 21300000, guid: c7f71ebdee3d651449a945a682c85820, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
